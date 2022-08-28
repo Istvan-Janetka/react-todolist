@@ -17,13 +17,6 @@ function App() {
     setTodo("");
     setTime("");
     
-    /*
-    todoList.push({todo:todo, time:time})
-    t={
-      todo: Valami,
-      time: 1 óra
-    }
-    */
   }
 
   return (
